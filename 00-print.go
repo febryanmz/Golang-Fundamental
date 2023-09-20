@@ -5,14 +5,13 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello Celerators!")
-	fmt.Println("Hello Celerators!")
+	fmt.Println("Hello Folks!")
+	fmt.Println("Hello Folks!")
+	fmt.Println("Hello Folks!")
 
-	fmt.Println("Hello Celerators!")
-	fmt.Println("Hello Celerators!")
-	fmt.Println("Hello Celerators!")
-	fmt.Println("Hello Celerators!")
-
+	fmt.Println("Hello Folks!")
+	fmt.Println("Hello Folks!")
+	fmt.Println("Hello Folks!")
 }
 
 //febryan
